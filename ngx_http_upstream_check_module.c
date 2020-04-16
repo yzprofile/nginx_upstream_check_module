@@ -56,7 +56,7 @@ typedef struct {
 } ngx_ajp_raw_packet_t;
 
 
-#pragma pack()
+#pragma pack(pop)
 
 
 typedef struct {
